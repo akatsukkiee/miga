@@ -16,7 +16,7 @@ do
   do
     TEXT=$(echo "$json_array" | jq -r '.text')
 
-    # せっかくなので日付情報も付加する。
+    # せっかくなので日付情報もメッセージに付加する。
     TS=$(echo "$json_array" | jq -r '.ts' | sed 's/\..*//g')
     DATE=$(date -r $TS +"%Y-%m-%d")
     
