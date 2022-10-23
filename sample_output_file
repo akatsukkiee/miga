@@ -1,0 +1,3 @@
+[{"type":"message","ts":"1662001200.000100","user":"Sample_user1","text":"Sample 1-1 です。"},{"type":"message","ts":"1662001200.000200","user":"Sample_user1","text":"Sample 1-2 です。"},{"type":"message","ts":"1662001200.000300","user":"Sample_user1","text":"Sample 1-3 です。"}]
+[{"type":"message","ts":"1662087600.000100","user":"Sample_user2","text":"Sample 2-1 です。"}]
+[{"type":"message","ts":"1662174000.000100","user":"Sample_user3","text":"Sample 3-1 です。"},{"type":"message","ts":"1662174000.000200","user":"Sample_user3","text":"Sample 3-2 です。"}]
