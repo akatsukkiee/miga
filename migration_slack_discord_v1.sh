@@ -1,7 +1,7 @@
 #!/bin/bash
 
 readonly WEBHOOK_URL="https://discord.com/api/webhooks/<copy>"
-readonly FILE_NAME="<output_file>"
+readonly FILE_NAME="<sample_read_file>"
 readonly USER_NAME="<discord_display_name>"
 
 # WHILE_I=1 # Debug
